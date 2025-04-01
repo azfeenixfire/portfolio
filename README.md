@@ -9,7 +9,7 @@ Welcome to my portfolio! I specialize in building AI-ready data platforms, AI-au
 - [AI-Metadata-Generator](https://github.com/azfeenixfire/ai-metadata-generator)  
   AI-powered documentation tool for dbt and Snowflake pipelines.
 
-- [AI-Augmented Self-Service Dashboard](https://github.com/azfeenixfire/ai-augmented-selfservice-dashboard)  
+- [AI-Augmented Self-Service Dashboard](https://github.com/azfeenixfire/AI-Augmented-Self-Service-Dashboard)  
   Demonstration of AI-assisted analytics delivery via Power BI + LLMs.
 
 ## About Me
